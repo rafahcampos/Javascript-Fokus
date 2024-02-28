@@ -1,2 +1,1 @@
-
-![Fokus](https://github.com/rafahcampos/Javascript-Fokus/assets/93745489/d94b1839-20ff-4199-b7e9-f1afc80398f1)
+![Fokus](https://github.com/rafahcampos/Javascript-Fokus/assets/93745489/624135ed-89df-4a87-ac66-269734f46bd9)
